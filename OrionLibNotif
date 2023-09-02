@@ -1,0 +1,6 @@
+OrionLib:MakeNotification({
+	Name = "Executing",
+	Content = "Your Script Wait..",
+	Image = "rbxassetid://4483345998",
+	Time = 3
+})
